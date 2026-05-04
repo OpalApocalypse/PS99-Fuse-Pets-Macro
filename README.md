@@ -1,5 +1,5 @@
 # PS99-Fuse-Pets-Macro
-Fuses pets for you.
+Fuses pets for you. Uses 1920x1080 resolution.
 
 ---
 
