@@ -3,14 +3,25 @@ Fuses pets for you.
 
 ---
 
-<img width="502" height="588" alt="image" src="https://github.com/user-attachments/assets/a55cfd3b-6f67-45aa-a345-c6002e31a2d6" />
+<img width="502" height="609" alt="image" src="https://github.com/user-attachments/assets/4f4a4e16-f99d-474e-9587-6c3bf931fff3" />
 
 ## Even has a tracker UI! (wow)
 
 <img width="170" height="64" alt="image" src="https://github.com/user-attachments/assets/9713e3bb-65ff-4210-8f25-5c208b1e3071" />
+
 ---
 
-## You MUST have the Fuse Pets window open before starting the macro.
+## Clicking to Fast? Computer can go faster? Adjust these values in the script:
+
+DelayAfterSearchClick = 100
+DelayAfterSearchText = 100
+DelayAfterShiftClick = 50
+DelayAfterClick1 = 1250
+DelayAfterClick2 = 550
+
+Lower values are faster.
+
+Increase these if clicks fail to register.
 
 ---
 
