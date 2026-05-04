@@ -162,8 +162,9 @@ BuildGui:
 
 	Gui, Font, s9 Norm
 	Gui, Add, Text, x20 y+15 w360 Center, How to Use:
-	Gui, Add, Text, x20 y+4 w360 Center, 1. Search the name of the pet, e.g. "Angelus"
-	Gui, Add, Text, x20 y+4 w360 Center, 2. In the Menu, where slot does it appear at? Click that box below.
+	Gui, Add, Text, x20 y+4 w360 Center, 1. You MUST have the Fuse Pets window open before starting the macro.
+	Gui, Add, Text, x20 y+4 w360 Center, 2. Search the name of the pet, e.g. "Angelus"
+	Gui, Add, Text, x20 y+4 w360 Center, 3. In the Menu, where slot does it appear at? Click that box below.
 
 	Gui, Add, Text, x20 y+15 w360 Center, Pet Name:
 	Gui, Add, Edit, x70 y+4 w260 vPetName Center, %DefaultPetName%
