@@ -13,11 +13,11 @@ Fuses pets for you.
 
 ## Clicking to Fast? Computer can go faster? Adjust these values in the script:
 
-DelayAfterSearchClick = 100
-DelayAfterSearchText = 100
-DelayAfterShiftClick = 50
-DelayAfterClick1 = 1250
-DelayAfterClick2 = 550
+DelayAfterSearchClick = 100<br>
+DelayAfterSearchText = 100<br>
+DelayAfterShiftClick = 50<br>
+DelayAfterClick1 = 1250<br>
+DelayAfterClick2 = 550<br>
 
 Lower values are faster.
 
